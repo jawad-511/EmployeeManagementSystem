@@ -1,7 +1,5 @@
 # EmployeeManagementSystem
 
-# EmployeeManagementMVC
-
 This repository contains a fullstack web application for managing employee data. The system follows the **Model-View-Controller (MVC)** architecture and implements **RESTful web services** for handling CRUD operations. The frontend is rendered using **Thymeleaf**, and data is exchanged in **JSON** format between the client and server.
 
 ## 🧱 Technologies Used
