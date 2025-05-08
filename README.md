@@ -23,11 +23,11 @@ This repository contains a fullstack web application for managing employee data.
 
 
 ## 📈 Future Enhancements
-Add user authentication
+- Add user authentication
 
-Support for pagination and search
+- Support for pagination and search
 
-Role-based access control
+- Role-based access control
 
-Deployment to the cloud (Heroku / AWS)
+- Deployment to the cloud (Heroku / AWS)
 
