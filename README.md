@@ -9,7 +9,7 @@ This repository contains a fullstack web application for managing employee data.
 - **Spring MVC** — MVC pattern implementation
 - **Spring Data JPA** — Database persistence
 - **H2** — Embedded or relational database
-- - **ORM (Object-Relational Mapping)** — For mapping Java objects to database tables
+- **ORM** (Object-Relational Mapping)** — For mapping Java objects to database tables
 - **RESTful APIs** — To handle CRUD logic
 - **JSON** — Format used for frontend-backend communication
 
