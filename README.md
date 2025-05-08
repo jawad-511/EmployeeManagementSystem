@@ -22,7 +22,7 @@ This repository contains a fullstack web application for managing employee data.
 - Clean separation of concerns using MVC.
 
 
-##📈 Future Enhancements
+## 📈 Future Enhancements
 Add user authentication
 
 Support for pagination and search
